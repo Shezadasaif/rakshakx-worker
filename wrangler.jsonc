@@ -1,0 +1,8 @@
+{
+  "name": "rakshakx-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2025-07-18",
+  "observability": {
+    "enabled": true
+  }
+}
